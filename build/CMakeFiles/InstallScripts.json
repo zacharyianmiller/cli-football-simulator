@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/zacharymiller/cli-football-simulator/build/cmake_install.cmake",
-		"/Users/zacharymiller/cli-football-simulator/build/src/cmake_install.cmake",
-		"/Users/zacharymiller/cli-football-simulator/build/ext/nlohmann-json/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

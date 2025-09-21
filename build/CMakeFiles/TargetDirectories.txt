@@ -1,8 +1,0 @@
-/Users/zacharymiller/cli-football-simulator/build/CMakeFiles/install.dir
-/Users/zacharymiller/cli-football-simulator/build/CMakeFiles/ALL_BUILD.dir
-/Users/zacharymiller/cli-football-simulator/build/CMakeFiles/ZERO_CHECK.dir
-/Users/zacharymiller/cli-football-simulator/build/src/CMakeFiles/src.dir
-/Users/zacharymiller/cli-football-simulator/build/src/CMakeFiles/install.dir
-/Users/zacharymiller/cli-football-simulator/build/ext/nlohmann-json/CMakeFiles/install.dir
-/Users/zacharymiller/cli-football-simulator/build/ext/nlohmann-json/CMakeFiles/ALL_BUILD.dir
-/Users/zacharymiller/cli-football-simulator/build/ext/nlohmann-json/CMakeFiles/ZERO_CHECK.dir
