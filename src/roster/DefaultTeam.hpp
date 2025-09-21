@@ -5,6 +5,9 @@
 #include <cassert>
 
 #include "PlayerSpecs.hpp"
+#include "../io-tools/FileValidator.h"
+
+#include "nlohmann/json.hpp"
 
 class DefaultTeam
 {

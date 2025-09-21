@@ -1,0 +1,29 @@
+{
+    "fullname": "Green Bay Packers",
+    "roster": [
+        {
+            "name": "Jordan Love",
+            "position": "QB",
+            "number": 10,
+            "ratings": {
+                "overall": 85
+            }
+        },
+        {
+            "name": "Josh Jacobs",
+            "position": "RB",
+            "number": 8,
+            "ratings": {
+                "overall": 90
+            }
+        },
+        {
+            "name": "Jayden Reed",
+            "position": "WR",
+            "number": 11,
+            "ratings": {
+                "overall": 81
+            }
+        }
+    ]
+}

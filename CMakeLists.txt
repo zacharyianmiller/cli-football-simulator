@@ -7,4 +7,11 @@ project ("cli-football-simulator")
 
 # Include sub-projects.
 add_subdirectory ("src")
+
+# External libs
 add_subdirectory("ext/nlohmann-json")
+
+target_link_libraries(src 
+    PRIVATE 
+    nlohmann_json::nlohmann_json
+)
