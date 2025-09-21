@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'ALL_BUILD' in project 'cli-football-simulator'
+➜ Explicit dependency on target 'src' in project 'cli-football-simulator'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'cli-football-simulator'
+Target 'ZERO_CHECK' in project 'cli-football-simulator' (no dependencies)
+Target 'src' in project 'cli-football-simulator' (no dependencies)
