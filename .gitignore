@@ -1,2 +1,6 @@
+# Project directories
 build/
 .vscode/
+
+# Helper bash scripts
+*.sh
