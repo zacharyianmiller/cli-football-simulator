@@ -1,0 +1,120 @@
+{
+  "fullname": "Kansas City Chiefs",
+  "conference": "AFC",
+  "division": "West",
+  "head_coach": "Andy Reid",
+  "roster": [
+    {
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "number": 15,
+      "ratings": {
+        "overall": 95
+      }
+    },
+    {
+      "name": "Noah Gray",
+      "position": "FB",
+      "number": 83,
+      "ratings": {
+        "overall": 74
+      }
+    },
+    {
+      "name": "Isiah Pacheco",
+      "position": "RB",
+      "number": 10,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "position": "WR",
+      "number": 8,
+      "ratings": {
+        "overall": 87
+      }
+    },
+    {
+      "name": "Travis Kelce",
+      "position": "TE",
+      "number": 87,
+      "ratings": {
+        "overall": 93
+      }
+    },
+    {
+      "name": "Josh Simmons",
+      "position": "T",
+      "number": 77,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Trey Smith",
+      "position": "G",
+      "number": 65,
+      "ratings": {
+        "overall": 90
+      }
+    },
+    {
+      "name": "Creed Humphrey",
+      "position": "C",
+      "number": 52,
+      "ratings": {
+        "overall": 94
+      }
+    },
+    {
+      "name": "George Karlaftis",
+      "position": "DE",
+      "number": 56,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Chris Jones",
+      "position": "DT",
+      "number": 95,
+      "ratings": {
+        "overall": 97
+      }
+    },
+    {
+      "name": "Drue Tranquill",
+      "position": "LB",
+      "number": 23,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Trent McDuffie",
+      "position": "CB",
+      "number": 21,
+      "ratings": {
+        "overall": 94
+      }
+    },
+    {
+      "name": "Jaden Hicks",
+      "position": "SS",
+      "number": 15,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "Bryan Cook",
+      "position": "FS",
+      "number": 6,
+      "ratings": {
+        "overall": 79
+      }
+    }
+  ]
+}

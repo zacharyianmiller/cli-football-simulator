@@ -1,0 +1,120 @@
+{
+  "fullname": "Los Angeles Chargers",
+  "conference": "AFC",
+  "division": "West",
+  "head_coach": "Jim Harbaugh",
+  "roster": [
+    {
+      "name": "Justin Herbert",
+      "position": "QB",
+      "number": 10,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Scott Matlock",
+      "position": "FB",
+      "number": 44,
+      "ratings": {
+        "overall": 68
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "number": 27,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Ladd McConkey",
+      "position": "WR",
+      "number": 15,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Will Dissly",
+      "position": "TE",
+      "number": 87,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Rashawn Slater",
+      "position": "T",
+      "number": 70,
+      "ratings": {
+        "overall": 92
+      }
+    },
+    {
+      "name": "Zion Johnson",
+      "position": "G",
+      "number": 77,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Bradley Bozeman",
+      "position": "C",
+      "number": 56,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Poona Ford",
+      "position": "DE",
+      "number": 97,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Teair Tart",
+      "position": "DT",
+      "number": 93,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Khalil Mack",
+      "position": "LB",
+      "number": 52,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Asante Samuel Jr.",
+      "position": "CB",
+      "number": 26,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Derwin James Jr.",
+      "position": "SS",
+      "number": 3,
+      "ratings": {
+        "overall": 94
+      }
+    },
+    {
+      "name": "Alohi Gilman",
+      "position": "FS",
+      "number": 32,
+      "ratings": {
+        "overall": 79
+      }
+    }
+  ]
+}

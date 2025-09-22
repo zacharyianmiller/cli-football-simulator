@@ -1,29 +1,120 @@
 {
-    "fullname": "Green Bay Packers",
-    "roster": [
-        {
-            "name": "Jordan Love",
-            "position": "QB",
-            "number": 10,
-            "ratings": {
-                "overall": 85
-            }
-        },
-        {
-            "name": "Josh Jacobs",
-            "position": "RB",
-            "number": 8,
-            "ratings": {
-                "overall": 90
-            }
-        },
-        {
-            "name": "Jayden Reed",
-            "position": "WR",
-            "number": 11,
-            "ratings": {
-                "overall": 81
-            }
-        }
-    ]
+  "fullname": "Green Bay Packers",
+  "conference": "NFC",
+  "division": "North",
+  "head_coach": "Matt LeFleur",
+  "roster": [
+    {
+      "name": "Jordan Love",
+      "position": "QB",
+      "number": 10,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Johnny Lumpkin",
+      "position": "FB",
+      "number": 43,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "Josh Jacobs",
+      "position": "RB",
+      "number": 8,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Jayden Reed",
+      "position": "WR",
+      "number": 11,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Tucker Kraft",
+      "position": "TE",
+      "number": 85,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Rasheed Walker",
+      "position": "T",
+      "number": 63,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Aaron Banks",
+      "position": "G",
+      "number": 65,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Elgton Jenkins",
+      "position": "C",
+      "number": 74,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Rashan Gary",
+      "position": "DE",
+      "number": 52,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Kenny Clark",
+      "position": "DT",
+      "number": 97,
+      "ratings": {
+        "overall": 90
+      }
+    },
+    {
+      "name": "Quay Walker",
+      "position": "LB",
+      "number": 7,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Nate Hobbs",
+      "position": "CB",
+      "number": 21,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Xavier McKinney",
+      "position": "SS",
+      "number": 29,
+      "ratings": {
+        "overall": 87
+      }
+    },
+    {
+      "name": "Evan Williams",
+      "position": "FS",
+      "number": 33,
+      "ratings": {
+        "overall": 78
+      }
+    }
+  ]
 }

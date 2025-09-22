@@ -1,0 +1,120 @@
+{
+  "fullname": "Tennessee Titans",
+  "conference": "AFC",
+  "division": "South",
+  "head_coach": "Brian Callahan",
+  "roster": [
+    {
+      "name": "Cam Ward",
+      "position": "QB",
+      "number": 1,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "David Martin-Robinson",
+      "position": "FB",
+      "number": 83,
+      "ratings": {
+        "overall": 67
+      }
+    },
+    {
+      "name": "Tony Pollard",
+      "position": "RB",
+      "number": 20,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Calvin Ridley",
+      "position": "WR",
+      "number": 0,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Chig Okonkwo",
+      "position": "TE",
+      "number": 85,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Dan Moore Jr.",
+      "position": "T",
+      "number": 65,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Peter Skoronski",
+      "position": "G",
+      "number": 77,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Lloyd Cushenberry III",
+      "position": "C",
+      "number": 79,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Arden Key",
+      "position": "DE",
+      "number": 99,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Jeffery Simmons",
+      "position": "DT",
+      "number": 98,
+      "ratings": {
+        "overall": 94
+      }
+    },
+    {
+      "name": "Cody Barton",
+      "position": "LB",
+      "number": 59,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "L'Jarius Sneed",
+      "position": "CB",
+      "number": 38,
+      "ratings": {
+        "overall": 91
+      }
+    },
+    {
+      "name": "Amani Hooker",
+      "position": "FS",
+      "number": 37,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Xavier Woods",
+      "position": "SS",
+      "number": 25,
+      "ratings": {
+        "overall": 80
+      }
+    }
+  ]
+}

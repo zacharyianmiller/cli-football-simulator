@@ -1,0 +1,120 @@
+{
+  "fullname": "Pittsburgh Steelers",
+  "conference": "AFC",
+  "division": "North",
+  "head_coach": "Mike Tomlin",
+  "roster": [
+    {
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "number": 8,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "Connor Heyward",
+      "position": "FB",
+      "number": 47,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "Jaylen Warren",
+      "position": "RB",
+      "number": 30,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "DK Metcalf",
+      "position": "WR",
+      "number": 14,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Pat Freiermuth",
+      "position": "TE",
+      "number": 88,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Broderick Jones",
+      "position": "T",
+      "number": 77,
+      "ratings": {
+        "overall": 72
+      }
+    },
+    {
+      "name": "Isaac Seumalo",
+      "position": "G",
+      "number": 73,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Zach Frazier",
+      "position": "C",
+      "number": 54,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Derrick Harmon",
+      "position": "DE",
+      "number": 99,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Cameron Heyward",
+      "position": "DT",
+      "number": 97,
+      "ratings": {
+        "overall": 94
+      }
+    },
+    {
+      "name": "T.J. Watt",
+      "position": "LB",
+      "number": 90,
+      "ratings": {
+        "overall": 96
+      }
+    },
+    {
+      "name": "Jalen Ramsey",
+      "position": "CB",
+      "number": 5,
+      "ratings": {
+        "overall": 94
+      }
+    },
+    {
+      "name": "DeShon Elliott",
+      "position": "SS",
+      "number": 25,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Juan Thornhill",
+      "position": "FS",
+      "number": 22,
+      "ratings": {
+        "overall": 80
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "fullname": "Cincinnati Bengals",
+  "conference": "AFC",
+  "division": "North",
+  "head_coach": "Zach Taylor",
+  "roster": [
+    {
+      "name": "Joe Burrow",
+      "position": "QB",
+      "number": 9,
+      "ratings": {
+        "overall": 97
+      }
+    },
+    {
+      "name": "Chris Evans",
+      "position": "FB",
+      "number": 36,
+      "ratings": {
+        "overall": 68
+      }
+    },
+    {
+      "name": "Chase Brown",
+      "position": "RB",
+      "number": 30,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "JaMarr Chase",
+      "position": "WR",
+      "number": 1,
+      "ratings": {
+        "overall": 99
+      }
+    },
+    {
+      "name": "Irv Smith Jr.",
+      "position": "TE",
+      "number": 82,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Orlando Brown Jr.",
+      "position": "T",
+      "number": 75,
+      "ratings": {
+        "overall": 92
+      }
+    },
+    {
+      "name": "Dylan Fairchild",
+      "position": "G",
+      "number": 63,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Ted Karras",
+      "position": "C",
+      "number": 64,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Trey Hendrickson",
+      "position": "DE",
+      "number": 91,
+      "ratings": {
+        "overall": 92
+      }
+    },
+    {
+      "name": "B. J. Hill",
+      "position": "DT",
+      "number": 92,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Logan Wilson",
+      "position": "LB",
+      "number": 55,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "DJ Turner II",
+      "position": "CB",
+      "number": 20,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Geno Stone",
+      "position": "FS",
+      "number": 22,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Jordan Battle",
+      "position": "SS",
+      "number": 27,
+      "ratings": {
+        "overall": 80
+      }
+    }
+  ]
+}

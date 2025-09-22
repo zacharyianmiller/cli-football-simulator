@@ -1,0 +1,64 @@
+{
+  "fullname": "Baltimore Ravens",
+  "conference": "AFC",
+  "division": "North",
+  "head_coach": "John Harbaugh",
+  "roster": [
+    {
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "number": 8,
+      "ratings": {
+        "overall": 99
+      }
+    },
+    {
+      "name": "Patrick Ricard",
+      "position": "FB",
+      "number": 44,
+      "ratings": {
+        "overall": 74
+      }
+    },
+    {
+      "name": "Derrick Henry",
+      "position": "RB",
+      "number": 25,
+      "ratings": {
+        "overall": 98
+      }
+    },
+    {
+      "name": "Zay Flowers",
+      "position": "WR",
+      "number": 3,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Mark Andrews",
+      "position": "TE",
+      "number": 89,
+      "ratings": {
+        "overall": 91
+      }
+    },
+    {
+      "name": "Ronnie Stanley",
+      "position": "T",
+      "number": 78,
+      "ratings": {
+        "overall": 90
+      }
+    },
+    {
+      "name": "Ben Cleveland",
+      "position": "G",
+      "number": 72,
+      "ratings": {
+        "overall": 79
+      }
+    }
+  ]
+}

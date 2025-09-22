@@ -1,0 +1,120 @@
+{
+  "fullname": "Denver Broncos",
+  "conference": "AFC",
+  "division": "West",
+  "head_coach": "Sean Payton",
+  "roster": [
+    {
+      "name": "Bo Nix",
+      "position": "QB",
+      "number": 10,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Adam Prentice",
+      "position": "FB",
+      "number": 46,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "number": 27,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "number": 14,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Evan Engram",
+      "position": "TE",
+      "number": 1,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Garett Bolles",
+      "position": "T",
+      "number": 72,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Quinn Meinerz",
+      "position": "G",
+      "number": 77,
+      "ratings": {
+        "overall": 95
+      }
+    },
+    {
+      "name": "Luke Wattenberg",
+      "position": "C",
+      "number": 60,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "John Franklin-Myers",
+      "position": "DE",
+      "number": 98,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "D.J. Jones",
+      "position": "DT",
+      "number": 93,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Nik Bonitto",
+      "position": "LB",
+      "number": 15,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Patrick Surtain II",
+      "position": "CB",
+      "number": 2,
+      "ratings": {
+        "overall": 97
+      }
+    },
+    {
+      "name": "Talanoa Hufanga",
+      "position": "SS",
+      "number": 9,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Brandon Jones",
+      "position": "FS",
+      "number": 22,
+      "ratings": {
+        "overall": 83
+      }
+    }
+  ]
+}

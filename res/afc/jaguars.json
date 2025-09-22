@@ -1,0 +1,120 @@
+{
+  "fullname": "Jacksonville Jaguars",
+  "conference": "AFC",
+  "division": "South",
+  "head_coach": "Liam Coen",
+  "roster": [
+    {
+      "name": "Trevor Lawrence",
+      "position": "QB",
+      "number": 16,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Johnny Mundt",
+      "position": "FB",
+      "number": 85,
+      "ratings": {
+        "overall": 68
+      }
+    },
+    {
+      "name": "Travis Etienne Jr.",
+      "position": "RB",
+      "number": 1,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Brian Thomas Jr.",
+      "position": "WR",
+      "number": 7,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Brenton Strange",
+      "position": "TE",
+      "number": 80,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Walker Little",
+      "position": "T",
+      "number": 72,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "Patrick Mekari",
+      "position": "G",
+      "number": 65,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "Robert Hainsey",
+      "position": "C",
+      "number": 51,
+      "ratings": {
+        "overall": 74
+      }
+    },
+    {
+      "name": "Josh Hines-Allen",
+      "position": "DE",
+      "number": 41,
+      "ratings": {
+        "overall": 90
+      }
+    },
+    {
+      "name": "DaVon Hamilton",
+      "position": "DT",
+      "number": 52,
+      "ratings": {
+        "overall": 74
+      }
+    },
+    {
+      "name": "Foyesade Oluokun",
+      "position": "LB",
+      "number": 23,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Travis Hunter",
+      "position": "CB",
+      "number": 12,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Eric Murray",
+      "position": "SS",
+      "number": 31,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Andrew Wingard",
+      "position": "FS",
+      "number": 42,
+      "ratings": {
+        "overall": 73
+      }
+    }
+  ]
+}

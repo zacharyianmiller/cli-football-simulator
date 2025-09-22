@@ -1,0 +1,120 @@
+{
+  "fullname": "Miami Dolphins",
+  "conference": "AFC",
+  "division": "East",
+  "head_coach": "Mike McDaniel",
+  "roster": [
+    {
+      "name": "Tua Tagovailoa",
+      "position": "QB",
+      "number": 1,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Alec Ingold",
+      "position": "FB",
+      "number": 40,
+      "ratings": {
+        "overall": 74
+      }
+    },
+    {
+      "name": "De'Von Achane",
+      "position": "RB",
+      "number": 25,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Tyreek Hill",
+      "position": "WR",
+      "number": 10,
+      "ratings": {
+        "overall": 95
+      }
+    },
+    {
+      "name": "Darren Waller",
+      "position": "TE",
+      "number": 35,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Terron Armstead",
+      "position": "T",
+      "number": 72,
+      "ratings": {
+        "overall": 90
+      }
+    },
+    {
+      "name": "James Daniels",
+      "position": "G",
+      "number": 63,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Aaron Brewer",
+      "position": "C",
+      "number": 62,
+      "ratings": {
+        "overall": 77
+      }
+    },
+    {
+      "name": "Chop Robinson",
+      "position": "DE",
+      "number": 54,
+      "ratings": {
+        "overall": 77
+      }
+    },
+    {
+      "name": "Zach Sieler",
+      "position": "DT",
+      "number": 56,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Jordyn Brooks",
+      "position": "LB",
+      "number": 63,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Jack Jones",
+      "position": "CB",
+      "number": 69,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Minkah Fitzpatrick",
+      "position": "FS",
+      "number": 29,
+      "ratings": {
+        "overall": 92
+      }
+    },
+    {
+      "name": "Ashtyn Davis",
+      "position": "SS",
+      "number": 76,
+      "ratings": {
+        "overall": 74
+      }
+    }
+  ]
+}

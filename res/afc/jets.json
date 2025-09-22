@@ -1,0 +1,64 @@
+{
+  "fullname": "New York Jets",
+  "conference": "AFC",
+  "division": "East",
+  "head_coach": "Aaron Glenn",
+  "roster": [
+    {
+      "name": "Justin Fields",
+      "position": "QB",
+      "number": 7,
+      "ratings": {
+        "overall": 74
+      }
+    },
+    {
+      "name": "Andrew Beck",
+      "position": "FB",
+      "number": 49,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "Breece Hall",
+      "position": "RB",
+      "number": 20,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Garrett Wilson",
+      "position": "WR",
+      "number": 17,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Mason Taylor",
+      "position": "TE",
+      "number": 82,
+      "ratings": {
+        "overall": 72
+      }
+    },
+    {
+      "name": "Olu Fashanu",
+      "position": "T",
+      "number": 70,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Alijah Vera-Tucker",
+      "position": "G",
+      "number": 74,
+      "ratings": {
+        "overall": 84
+      }
+    }
+  ]
+}

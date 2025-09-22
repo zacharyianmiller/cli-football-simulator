@@ -1,0 +1,120 @@
+{
+  "fullname": "New England Patriots",
+  "conference": "AFC",
+  "division": "East",
+  "head_coach": "Mike Vrabel",
+  "roster": [
+    {
+      "name": "Drake Maye",
+      "position": "QB",
+      "number": 10,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Jack Westover",
+      "position": "FB",
+      "number": 37,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "position": "RB",
+      "number": 38,
+      "ratings": {
+        "overall": 87
+      }
+    },
+    {
+      "name": "Stefon Diggs",
+      "position": "WR",
+      "number": 8,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Hunter Henry",
+      "position": "TE",
+      "number": 85,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Will Campbell",
+      "position": "T",
+      "number": 66,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Mike Onwenu",
+      "position": "G",
+      "number": 71,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Garrett Bradbury",
+      "position": "C",
+      "number": 65,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Milton Williams",
+      "position": "DE",
+      "number": 97,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Christian Barmore",
+      "position": "DT",
+      "number": 90,
+      "ratings": {
+        "overall": 87
+      }
+    },
+    {
+      "name": "Harold Landry III",
+      "position": "LB",
+      "number": 2,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Christian Gonzalez",
+      "position": "CB",
+      "number": 0,
+      "ratings": {
+        "overall": 95
+      }
+    },
+    {
+      "name": "Kyle Dugger",
+      "position": "SS",
+      "number": 20,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Jaylinn Hawkins",
+      "position": "FS",
+      "number": 21,
+      "ratings": {
+        "overall": 80
+      }
+    }
+  ]
+}

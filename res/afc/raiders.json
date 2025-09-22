@@ -1,0 +1,120 @@
+{
+  "fullname": "Las Vegas Raiders",
+  "conference": "AFC",
+  "division": "West",
+  "head_coach": "Pete Carroll",
+  "roster": [
+    {
+      "name": "Geno Smith",
+      "position": "QB",
+      "number": 7,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "position": "FB",
+      "number": 45,
+      "ratings": {
+        "overall": 73
+      }
+    },
+    {
+      "name": "Ashton Jeanty",
+      "position": "RB",
+      "number": 23,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Jakobi Meyers",
+      "position": "WR",
+      "number": 16,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Brock Bowers",
+      "position": "TE",
+      "number": 89,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Kolton Miller",
+      "position": "T",
+      "number": 74,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Jackson Powers-Johnson",
+      "position": "G",
+      "number": 58,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Jordan Meredith",
+      "position": "C",
+      "number": 71,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Maxx Crosby",
+      "position": "DE",
+      "number": 98,
+      "ratings": {
+        "overall": 95
+      }
+    },
+    {
+      "name": "Jonah Laulu",
+      "position": "DT",
+      "number": 90,
+      "ratings": {
+        "overall": 72
+      }
+    },
+    {
+      "name": "Devin White",
+      "position": "LB",
+      "number": 40,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Darien Porter",
+      "position": "CB",
+      "number": 31,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "Jeremy Chinn",
+      "position": "SS",
+      "number": 21,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Isaiah Pola-Mao",
+      "position": "FS",
+      "number": 20,
+      "ratings": {
+        "overall": 77
+      }
+    }
+  ]
+}

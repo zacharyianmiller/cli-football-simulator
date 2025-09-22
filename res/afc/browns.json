@@ -1,0 +1,120 @@
+{
+  "fullname": "Cleveland Browns",
+  "conference": "AFC",
+  "division": "North",
+  "head_coach": "Kevin Stefanski",
+  "roster": [
+    {
+      "name": "Joe Flacco",
+      "position": "QB",
+      "number": 15,
+      "ratings": {
+        "overall": 72
+      }
+    },
+    {
+      "name": "Blake Whiteheart",
+      "position": "FB",
+      "number": 86,
+      "ratings": {
+        "overall": 62
+      }
+    },
+    {
+      "name": "Jerome Ford",
+      "position": "RB",
+      "number": 34,
+      "ratings": {
+        "overall": 77
+      }
+    },
+    {
+      "name": "Jerry Jeudy",
+      "position": "WR",
+      "number": 3,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "David Njoku",
+      "position": "TE",
+      "number": 85,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Dawand Jones",
+      "position": "T",
+      "number": 79,
+      "ratings": {
+        "overall": 69
+      }
+    },
+    {
+      "name": "Joel Bitonio",
+      "position": "G",
+      "number": 75,
+      "ratings": {
+        "overall": 86
+      }
+    },
+    {
+      "name": "Ethan Pocic",
+      "position": "C",
+      "number": 55,
+      "ratings": {
+        "overall": 72
+      }
+    },
+    {
+      "name": "Myles Garrett",
+      "position": "DE",
+      "number": 95,
+      "ratings": {
+        "overall": 99
+      }
+    },
+    {
+      "name": "Mason Graham",
+      "position": "DT",
+      "number": 94,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Jeremiah Owusu-Koramoah",
+      "position": "LB",
+      "number": 6,
+      "ratings": {
+        "overall": 83
+      }
+    },
+    {
+      "name": "Denzel Ward",
+      "position": "CB",
+      "number": 21,
+      "ratings": {
+        "overall": 91
+      }
+    },
+    {
+      "name": "Grant Delpit",
+      "position": "SS",
+      "number": 9,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Ronnie Hickman",
+      "position": "FS",
+      "number": 33,
+      "ratings": {
+        "overall": 73
+      }
+    }
+  ]
+}

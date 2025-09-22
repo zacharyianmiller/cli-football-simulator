@@ -1,0 +1,120 @@
+{
+  "fullname": "Houston Texans",
+  "conference": "AFC",
+  "division": "South",
+  "head_coach": "DeMeco Ryans",
+  "roster": [
+    {
+      "name": "C. J. Stroud",
+      "position": "QB",
+      "number": 7,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "position": "FB",
+      "number": 43,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "Joe Mixon",
+      "position": "RB",
+      "number": 28,
+      "ratings": {
+        "overall": 91
+      }
+    },
+    {
+      "name": "Nico Collins",
+      "position": "WR",
+      "number": 12,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Dalton Schultz",
+      "position": "TE",
+      "number": 86,
+      "ratings": {
+        "overall": 79
+      }
+    },
+    {
+      "name": "Aireontae Ersery",
+      "position": "T",
+      "number": 79,
+      "ratings": {
+        "overall": 72
+      }
+    },
+    {
+      "name": "Laken Tomlinson",
+      "position": "G",
+      "number": 75,
+      "ratings": {
+        "overall": 81
+      }
+    },
+    {
+      "name": "Jake Andrews",
+      "position": "C",
+      "number": 60,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Will Anderson Jr.",
+      "position": "DE",
+      "number": 51,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Jonathan Rankins",
+      "position": "DT",
+      "number": 90,
+      "ratings": {
+        "overall": 85
+      }
+    },
+    {
+      "name": "Azeez Al-Shaair",
+      "position": "LB",
+      "number": 0,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Derek Stingley Jr.",
+      "position": "CB",
+      "number": 24,
+      "ratings": {
+        "overall": 93
+      }
+    },
+    {
+      "name": "C. J. Gardner-Johnson",
+      "position": "SS",
+      "number": 8,
+      "ratings": {
+        "overall": 84
+      }
+    },
+    {
+      "name": "Jalen Pitre",
+      "position": "FS",
+      "number": 5,
+      "ratings": {
+        "overall": 85
+      }
+    }
+  ]
+}

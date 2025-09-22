@@ -1,0 +1,120 @@
+{
+  "fullname": "Indianapolis Colts",
+  "conference": "AFC",
+  "division": "South",
+  "head_coach": "Shane Steichen",
+  "roster": [
+    {
+      "name": "Anthony Richardson",
+      "position": "QB",
+      "number": 5,
+      "ratings": {
+        "overall": 82
+      }
+    },
+    {
+      "name": "Jakob Johnson",
+      "position": "FB",
+      "number": 43,
+      "ratings": {
+        "overall": 70
+      }
+    },
+    {
+      "name": "Jonathan Taylor",
+      "position": "RB",
+      "number": 28,
+      "ratings": {
+        "overall": 89
+      }
+    },
+    {
+      "name": "Josh Downs",
+      "position": "WR",
+      "number": 1,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Tyler Warren",
+      "position": "TE",
+      "number": 85,
+      "ratings": {
+        "overall": 78
+      }
+    },
+    {
+      "name": "Bernhard Raimann",
+      "position": "T",
+      "number": 79,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Quenton Nelson",
+      "position": "G",
+      "number": 56,
+      "ratings": {
+        "overall": 92
+      }
+    },
+    {
+      "name": "Ryan Kelly",
+      "position": "C",
+      "number": 78,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Laiatu Latu",
+      "position": "DE",
+      "number": 97,
+      "ratings": {
+        "overall": 76
+      }
+    },
+    {
+      "name": "DeForest Buckner",
+      "position": "DT",
+      "number": 99,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Zaire Franklin",
+      "position": "LB",
+      "number": 44,
+      "ratings": {
+        "overall": 80
+      }
+    },
+    {
+      "name": "Kenny Moore II",
+      "position": "CB",
+      "number": 23,
+      "ratings": {
+        "overall": 88
+      }
+    },
+    {
+      "name": "Nick Cross",
+      "position": "SS",
+      "number": 20,
+      "ratings": {
+        "overall": 75
+      }
+    },
+    {
+      "name": "Rodney Thomas II",
+      "position": "FS",
+      "number": 25,
+      "ratings": {
+        "overall": 77
+      }
+    }
+  ]
+}
