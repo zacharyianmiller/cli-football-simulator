@@ -16,9 +16,9 @@ public:
 
 private:
 
-    void print(std::string&, const bool); // helper
+    static void print(const std::string& instr, const bool shouldNewline = true); // helper
 
-    static constexpr std::string_view LOAD_CHAR = "|";
+    static constexpr std::string_view LOAD_CHAR = "\u25AC";
     static constexpr std::string_view NO_CHAR = "";
     static constexpr std::string_view EMPTY_CHAR = " ";
     static constexpr std::string_view NEW_LINE = "\n";
