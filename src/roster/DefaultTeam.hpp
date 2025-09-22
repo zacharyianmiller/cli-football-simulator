@@ -22,7 +22,7 @@ public:
     /// @brief Parameterized constructor for general team
     /// @param pTeamPrefix The leading team title - usually the city/state association (e.g., New York for the Jets, Los Angeles for the Rams)
     /// @param pTeamSuffix The official team name (e.g., Bills, Patriots, Colts, etc.)
-    DefaultTeam(const std::string& pTeamPrefix, const std::string& pTeamSuffix) :
+    DefaultTeam(std::string_view pTeamPrefix, std::string_view pTeamSuffix) :
     mRoster(std::make_unique<Roster>()),
     mTeamPrefix(pTeamPrefix),
     mTeamSuffix(pTeamSuffix)
@@ -31,6 +31,8 @@ public:
     ~DefaultTeam() = default;
 
     void loadIntoPosition(const PlayerSpecs specs);
+
+    auto getTeamName() { return mTeamSuffix; }
 
 private:
 
@@ -57,6 +59,6 @@ private:
     };
 
     std::unique_ptr<Roster> mRoster;
-    std::string mTeamPrefix;
-    std::string mTeamSuffix;
+    std::string_view mTeamPrefix;
+    std::string_view mTeamSuffix;
 };

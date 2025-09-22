@@ -13,5 +13,5 @@ add_subdirectory("ext/nlohmann-json")
 
 target_link_libraries(src 
     PRIVATE 
-    nlohmann_json::nlohmann_json
+        nlohmann_json::nlohmann_json
 )

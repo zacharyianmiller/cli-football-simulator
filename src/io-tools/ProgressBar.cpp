@@ -4,6 +4,8 @@ void ProgressBar::update(const int currentIdx,
                          const int length,
                          const int maxNumChars)
 {
+    assert(currentIdx > 0);
+
     const float ratio = static_cast<float>(currentIdx) / static_cast<float>(length);
     const auto percent = ratio * 100.f;
     const int numBars = ratio * maxNumChars;

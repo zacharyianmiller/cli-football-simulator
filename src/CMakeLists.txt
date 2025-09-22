@@ -9,9 +9,10 @@ project(cli-football-simulator)
 # Add source to this project's executable.
 add_executable(src 
     "main.cpp" 
+    "io-tools/ProgressBar.cpp"
     "roster/DefaultTeam.cpp" 
     "roster/PlayerSpecs.cpp"
-    "io-tools/ProgressBar.cpp"
+    "roster/LeagueResourceLoader.cpp"
 )
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)

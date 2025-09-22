@@ -1,12 +1,10 @@
-#include <iostream>
 #include <fstream>
+#include <thread>
+#include <sstream>
 
 #include "roster/DefaultTeam.hpp"
 #include "roster/PlayerSpecs.hpp"
-#include "io-tools/ProgressBar.hpp"
-
-#include <thread>
-#include <sstream>
+#include "roster/LeagueResourceLoader.hpp"
 
 #define print(x) std::cout << x << std::endl
 
@@ -14,23 +12,31 @@ int main(int argc, char* argv[])
 {
     using json = nlohmann::json;
 
-    DefaultTeam mBuffaloBills { "Buffalo", "Bills" };
+    /* AFC East */
+    DefaultTeam mBuffaloBills       { "Buffalo",       "Bills"    };
+    DefaultTeam mMiamiDolphins      { "Miami",         "Dolphins" };
+    DefaultTeam mNewYorkJets        { "New York",      "Jets"     };
+    DefaultTeam mNewEnglandPatriots { "New England",   "Patriots" };
 
-    // PlayerSpecs specs { "Josh Allen", PlayerSpecs::OffensivePositions::QB, 17 };
-    // print("Name: " << specs.getPlayerName());
-    // print("Position: " << specs.getPlayerPositionStr());
-    // print("Jersey number: " << specs.getPlayerJerseyNumber());
+    /* AFC North */
+    DefaultTeam mCincinnatiBengals  { "Cincinnati",    "Bengals"  };
+    DefaultTeam mClevelandBrowns    { "Cleveland",     "Browns"   };
+    DefaultTeam mBaltimoreRavens    { "Baltimore",     "Ravens"   };
+    DefaultTeam mPittsburghSteelers { "Pittsburgh",    "Steelers" };
 
-    // const auto path = "../res/bills.json";
-    // bool status = FileValidator::isValid(path);
+    /* AFC South */
+    DefaultTeam mIndianapolisColts   { "Indianapolis", "Colts"    };
+    DefaultTeam mJacksonvilleJaguars { "Jacksonville", "Jaguars"  };
+    DefaultTeam mHoustonTexans       { "Houston",      "Texans"   };
+    DefaultTeam mTennesseeTitans     { "Tennessee",    "Titans"   };
 
-    // std::ifstream bills_file(path);
-    // json bills = json::parse(bills_file);
+    /* AFC West */
+    DefaultTeam mDenverBroncos      { "Denver",        "Broncos"  };
+    DefaultTeam mLosAngelesChargers { "Los Angeles",   "Chargers" };
+    DefaultTeam mKansasCityChiefs   { "Kansas City",   "Chiefs"   };
+    DefaultTeam mLasVegasRaiders    { "Las Vegas",     "Raiders"  };
+    
+    LeagueResourceLoader::loadTeamFromJSON(mBuffaloBills);
 
-    const int N = 250;
-    for (size_t n = 1; n < N + 1; ++n)
-    {
-        ProgressBar::update(n, N);
-        std::this_thread::sleep_for(std::chrono::milliseconds(10));
-    }
+    return 0;
 }

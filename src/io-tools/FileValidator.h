@@ -12,7 +12,7 @@ public:
 
     inline static const bool isValid(const std::string& path)
     {
-        return fileExists(path) && fileOpenable(path) ? true : false;
+        return fileExists(path) && fileOpenable(path);
     }
 
 private:
