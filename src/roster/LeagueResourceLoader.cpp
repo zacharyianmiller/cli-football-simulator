@@ -1,26 +1,24 @@
 #include "LeagueResourceLoader.hpp"
 
-void LeagueResourceLoader::loadTeamFromJSON(DefaultTeam& teamRef)
+void LeagueResourceLoader::loadTeamFromJSON(std::vector<DefaultTeam> teamRefArr)
 {
-    auto teamstr = std::string(teamRef.getTeamName());
-    std::string path = "../../res/" + toLowercase(teamstr) + ".json";
-
-    /// FIXME: Issue at runtime where resources are not being found
-    /// which cause parsing errors.
-    // if (!FileValidator::isValid(path))
-    //     return;
-
-    // std::ifstream file(path);
-    // json team = json::parse(file);
-
-    const int N = 500;
-    for (size_t n = 0; n < N; ++n)
+    auto numTeams = teamRefArr.size();
+    for (int n = 0; n < numTeams; ++n)
     {
-        ProgressBar::update(n + 1, N);
+        ProgressBar::update(n + 1, (int)numTeams);
 
-        /* Do something with teamRef... */
+        auto teamstr = std::string(teamRefArr[n].getTeamName());
+        std::filesystem::path path = std::string(BINARY_DIR) + "/" + toLowercase(teamstr) + ".json";
+    
+        /* Ensure file exists before loading */
+        if (!std::filesystem::exists(path))
+            break;
 
-        std::this_thread::sleep_for(std::chrono::milliseconds(1));
+        /* Parse out JSON file */
+        std::ifstream file(path, std::ios::binary);
+        json team = json::parse(file);
+
+        std::this_thread::sleep_for(std::chrono::milliseconds(10));
     }
 }
 

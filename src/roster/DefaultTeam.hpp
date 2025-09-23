@@ -5,7 +5,6 @@
 #include <cassert>
 
 #include "PlayerSpecs.hpp"
-#include "../io-tools/FileValidator.h"
 
 #include "nlohmann/json.hpp"
 
@@ -23,11 +22,19 @@ public:
     /// @param pTeamPrefix The leading team title - usually the city/state association (e.g., New York for the Jets, Los Angeles for the Rams)
     /// @param pTeamSuffix The official team name (e.g., Bills, Patriots, Colts, etc.)
     DefaultTeam(std::string_view pTeamPrefix, std::string_view pTeamSuffix) :
-    mRoster(std::make_unique<Roster>()),
+    mRoster(std::make_shared<Roster>()),
     mTeamPrefix(pTeamPrefix),
     mTeamSuffix(pTeamSuffix)
     {}
 
+    DefaultTeam(const DefaultTeam& other) {
+        if (this != &other) {
+            this->mTeamPrefix = other.mTeamPrefix;
+            this->mTeamSuffix = other.mTeamSuffix;
+            this->mRoster = std::move(other.mRoster);
+        }
+    }
+    
     ~DefaultTeam() = default;
 
     void loadIntoPosition(const PlayerSpecs specs);
@@ -58,7 +65,7 @@ private:
 
     };
 
-    std::unique_ptr<Roster> mRoster;
-    std::string_view mTeamPrefix;
-    std::string_view mTeamSuffix;
+    std::shared_ptr<Roster> mRoster;
+    std::string mTeamPrefix;
+    std::string mTeamSuffix;
 };

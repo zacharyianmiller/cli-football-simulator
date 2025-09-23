@@ -3,11 +3,12 @@
 #include <thread>
 #include <algorithm>
 #include <cctype>
-#include "nlohmann/json.hpp"
+#include <fstream>
 
 #include "../roster/DefaultTeam.hpp"
 #include "../io-tools/ProgressBar.hpp"
-#include "../io-tools/FileValidator.h"
+
+#include "nlohmann/json.hpp"
 
 class LeagueResourceLoader
 {
@@ -18,7 +19,7 @@ public:
     LeagueResourceLoader() {}
     ~LeagueResourceLoader() = default;
 
-    static void loadTeamFromJSON(DefaultTeam& team);
+    static void loadTeamFromJSON(std::vector<DefaultTeam> teamRefArr);
 
 private:
 
