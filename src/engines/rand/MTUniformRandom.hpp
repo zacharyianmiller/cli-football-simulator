@@ -4,7 +4,7 @@
 #include <ctime>
 
 template <typename FloatType>
-struct MTUniformRandom
+class MTUniformRandom
 {
 public:
 
