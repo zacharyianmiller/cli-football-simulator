@@ -18,7 +18,7 @@ void LeagueResourceLoader::loadTeamFromJSON(std::vector<DefaultTeam> teamRefArr)
         std::ifstream file(path, std::ios::binary);
         json team = json::parse(file);
 
-        std::this_thread::sleep_for(std::chrono::milliseconds(10));
+        std::this_thread::sleep_for(std::chrono::milliseconds(50));
     }
 }
 
